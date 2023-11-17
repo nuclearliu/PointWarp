@@ -1,0 +1,10 @@
+*.png
+*.txt
+result_*/
+*_small.py
+*Small.py
+*.npz
+.idea
+warpTest.py
+!fisheye.png
+!flat.png
